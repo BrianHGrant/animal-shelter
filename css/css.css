@@ -1,0 +1,19 @@
+html {
+  background-color: green;
+}
+
+.profile {
+  float: left;
+  padding: 2% 5% 2% 5%;
+  margin: 2px;
+  border: 4px solid blue;
+}
+
+.profile p {
+  font-family: "Times New Roman", monospace;
+  font-size: 14pt;
+}
+
+.profile img {
+  width: 100%;
+}
