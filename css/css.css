@@ -1,4 +1,4 @@
-html {
+body {
   background-color: green;
 }
 
@@ -17,4 +17,13 @@ html {
 
 .profile img {
   width: 100%;
+}
+
+@media screen and (max-width:  768px)  {
+    body {
+        background:  #FF6347;
+        color: #FFF;
+    }
+    .profile {float: none;
+    width: 300px;}
 }
